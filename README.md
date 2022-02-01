@@ -1,2 +1,2 @@
 # CodeMentor
-LEarn by doing
+#meant for practice with python
